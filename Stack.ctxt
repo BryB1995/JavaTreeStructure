@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ Constructor\ and\ handler\ for\ Stack\ data\ structure\r\n\ \r\n\ @author\ Bryce\ Baker\r\n\ @version\ 2018/11/22\r\n
+comment1.params=e
+comment1.target=void\ push(java.lang.Comparable)
+comment1.text=\ Push\ an\ element\ e\ of\ type\ T\ onto\ the\ stack.\ \r\n\ \ @param\ e\ the\ element\ to\ push\r\n
+comment2.params=
+comment2.target=java.lang.Comparable\ pop()
+comment2.text=\ Pop\ the\ top\ element\ off\ the\ stack\ and\ return\ a\ pointer\ to\ it.\ \r\n\ \ @return\ a\ pointer\ to\ the\ top\ element\ on\ the\ stack,\ null\ if\ the\ stack\ is\ empty.\ \r\n
+comment3.params=
+comment3.target=java.lang.Comparable\ peek()
+comment3.text=\ Return\ a\ pointer\ to\ the\ top\ element\ on\ the\ stack,\ without\ removing\ it.\ \r\n\ \ @return\ a\ pointer\ to\ the\ top\ element\ on\ the\ stack,\ null\ if\ the\ stack\ is\ empty.\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\ Return\ true\ if\ the\ stack\ is\ empty,\ false\ otherwise.\ \r\n\ \ @return\ boolean\ true\ if\ stack\ is\ empty.\ \r\n
+comment5.params=
+comment5.target=int\ size()
+comment5.text=\ Return\ the\ number\ of\ elements\ in\ the\ stack.\ \r\n\ \ @return\ int\r\n
+numComments=6

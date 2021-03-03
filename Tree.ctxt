@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\r\n\ Constructor\ and\ handler\ for\ Tree\ data\ structure,\ and\ parsing\ variables\ for\ hashmap\r\n\r\n\ @author\ Bryce\ Baker\r\n\ @version\ 2018/11/22\r\n
+comment1.params=
+comment1.target=Tree()
+comment10.params=b
+comment10.target=boolean\ validate(Tree.branch)
+comment11.params=
+comment11.target=boolean\ validator()
+comment2.params=s
+comment2.target=void\ treeCon(java.lang.Comparable)
+comment3.params=x
+comment3.target=void\ treeAdd(java.lang.Comparable)
+comment4.params=
+comment4.target=void\ setRoot()
+comment5.params=r\ travType
+comment5.target=void\ traverse(Tree.branch,\ int)
+comment5.text=\ Traverse\ the\ tree.\ \ travtype\ determines\ the\ type\ of\ \r\ntraversal\ to\ perform.
+comment6.params=
+comment6.target=void\ inOrder()
+comment7.params=
+comment7.target=void\ postOrder()
+comment8.params=
+comment8.target=void\ preOrder()
+comment9.params=r
+comment9.target=void\ visit(Tree.branch)
+numComments=12

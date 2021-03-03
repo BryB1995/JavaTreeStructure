@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ Constructor\ and\ handler\ for\ Queue\ data\ structure\r\n\ \r\n\ @author\ Bryce\ Baker\r\n\ @version\ 2018/11/22\r\n
+comment1.params=e
+comment1.target=void\ enqueue(java.lang.Comparable)
+comment1.text=\ Add\ an\ element\ e\ of\ type\ T\ to\ the\ tail\ of\ the\ queue.\ \r\n\ \ @param\ e\ the\ element\ to\ enqueue\r\n
+comment2.params=
+comment2.target=java.lang.Comparable\ dequeue()
+comment2.text=\ Remove\ element\ from\ the\ head\ of\ the\ queue\ and\ return\ a\ pointer\ to\ it.\ \r\n\ \ @return\ a\ pointer\ to\ the\ first\ element\ in\ the\ queue,\ null\ if\ the\ queue\ is\ empty.\ \r\n
+comment3.params=
+comment3.target=java.lang.Comparable\ peek()
+comment3.text=\ Return\ a\ pointer\ to\ the\ first\ element\ on\ the\ queue,\ without\ removing\ it.\ \r\n\ \ @return\ a\ pointer\ to\ the\ first\ element\ on\ the\ queue,\ null\ if\ the\ queue\ is\ empty.\r\n
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment4.text=\ Return\ true\ if\ the\ queue\ is\ empty,\ false\ otherwise.\ \r\n\ \ @return\ boolean\ true\ if\ stack\ is\ empty.\ \r\n
+comment5.params=
+comment5.target=int\ size()
+comment5.text=\ Return\ the\ number\ of\ elements\ in\ the\ queue.\ \r\n\ \ @return\ int\r\n
+numComments=6
